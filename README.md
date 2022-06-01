@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm  Ajay Chauhan</h1>
-<h3 align="Left">Skill</h3>
-<P>Find Out Bug in Program</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black-devil-369&label=Profile%20views&color=0e75b6&style=flat" alt="black-devil-369" /> </p>
 
@@ -8,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@black_devil_369" target="blank"><img src="https://img.shields.io/twitter/follow/@black_devil_369?logo=twitter&style=for-the-badge" alt="@black_devil_369" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Swift language**
+- 🌱 I’m currently learning **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
