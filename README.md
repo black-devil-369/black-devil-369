@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Ajay Chauhan</h1>
+<h1 align="left">Hi 👋, I'm  Ajay Chauhan</h1>
 <h1 align="center">Jai Maa Bhavani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black-devil-369&label=Profile%20views&color=0e75b6&style=flat" alt="black-devil-369" /> </p>
 
