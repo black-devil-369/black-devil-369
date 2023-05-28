@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm  Ajay Chauhan</h1>
 <h1 align="center">Jai Maa Bhavani</h1>
+<h1 align="right">Jai Maa Kali</h1>
 
 <!--
 ## 🏆 GitHub Trophies
